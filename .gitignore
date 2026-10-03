@@ -1,0 +1,29 @@
+# Generated projects and build output
+PromptCam.xcodeproj/
+build*/
+DerivedData/
+*.xcarchive
+*.xcresult
+*.ipa
+*.dSYM/
+*.xcuserstate
+xcuserdata/
+# Local tools and credentials
+.DS_Store
+.claude/
+.codex/
+.eas/
+.superpowers/
+memory/
+.env
+.env.*
+*.p8
+*.p12
+*.pem
+*.cer
+*.key
+*.mobileprovision
+# Verification screenshots and logs
+verification/
+*.log
+__pycache__/
